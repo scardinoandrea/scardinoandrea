@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andrea
-- 🔭 I’m currently working at ... Katoen Natie
+- 🔭 I’m currently working at ... Ota Insight
 - 👀 I’m interested in ... develop and design
-- 🌱 I’m currently learning ... ux design
+- 🌱 I’m currently learning ... Ember.js
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... [email](mailto:andreascardino97@gmail.com)
 - 🗣️ I speak ... Spanish, English, Dutch (a little) and Javascript
