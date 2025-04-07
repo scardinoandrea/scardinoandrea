@@ -2,7 +2,7 @@
 - 🔭 I’m currently working at ... Lighthouse (formerly OTA Insight) 
 - 👀 I’m interested in ... develop and design
 - 🌱 I’m currently learning ... Ember.js
-- 📫 How to reach me: ... [email](mailto:andreascardino97@gmail.com)
+- 📫 How to reach me: ... [email](mailto:andrea.scardino.r@gmail.com)
 - 🗣️ I speak ... Spanish, English, Dutch (a little) and Javascript
 - ⚡ Fun fact: ... My grandparents are from 4 diferent countries 
 
