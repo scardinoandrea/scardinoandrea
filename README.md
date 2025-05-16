@@ -9,4 +9,5 @@ scardinoandrea/scardinoandrea is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://app.daily.dev/andreascardino"><img src="https://api.daily.dev/devcards/v2/cmimetTXoXrlTnlNHbQu0.png?type=default&r=is3" width="356" alt="Andrea's Dev Card"/></a>
+<a href="https://app.daily.dev/andreascardino"><img src="https://api.daily.dev/devcards/v2/cmimetTXoXrlTnlNHbQu0.png?type=wide&r=is3" width="652" alt="Andrea's Dev Card"/></a>
+
