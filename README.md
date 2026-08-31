@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrea</h1>
-<h3 align="center">A creative frontend developer from Venezuela, living in Belgium</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=scardinoandrea&label=Profile%20views&color=0e75b6&style=flat" alt="scardinoandrea" /> </p>
+<h3 align="center">A frontend developer from Venezuela, living in Belgium</h3>
 
 
 - 🔭 I’m currently working at [Lighthouse](https://www.mylighthouse.com/)
