@@ -2,7 +2,7 @@
 <h3 align="center">A frontend developer from Venezuela, living in Belgium</h3>
 
 
-- 🔭 I’m currently working at [Lighthouse](https://www.mylighthouse.com/)
+- 🔭 I’m currently working at [Lighthouse Intelligence](https://www.mylighthouse.com/)
 
 - 🌱 I’m currently learning **React and crochet 🧶**
 
